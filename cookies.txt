@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+themeselection.com	TRUE	/	FALSE	1999999999	PHPSESSID	b1c71c58901aad613c815c6c3bc20df9
+themeselection.com	TRUE	/	FALSE	1999999999	ppwp_wp_session	d47726d72f7a33d7299cc567349581fb%7C%7C1674140640%7C%7C1674140280
+
